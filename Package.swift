@@ -43,7 +43,7 @@ let package = Package(
         ),
         .binaryTarget(
             name: packageName,
-            url: "https://github.com/rafastealth/OpenTok/raw/main/OpenTok.zip",
+            url: "https://github.com/graff-ctrl/OpenTokSPM/raw/main/OpenTok.zip",
             checksum: "c4fc092731cc678d9ac5c7e83b61613e4c47001ddd6fcc9f2d6e68e090a70b5c"
             
         )
