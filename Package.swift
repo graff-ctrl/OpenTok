@@ -44,7 +44,7 @@ let package = Package(
         ),
         .binaryTarget(
             name: packageName,
-            url: "https://98point6-ios-sdk-swiftpm-binary.s3.us-west-2.amazonaws.com/OpenTok-2.25.0.zip",
+            url: "https://98point6-ios-sdk-swiftpm-binary.s3.us-west-2.amazonaws.com/OTXCFrameworks/OpenTok-2.25.0.zip",
             checksum: "c4fc092731cc678d9ac5c7e83b61613e4c47001ddd6fcc9f2d6e68e090a70b5c"
             
         )
